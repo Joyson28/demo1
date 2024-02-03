@@ -4,16 +4,12 @@ import React from 'react'
 const hello = () => {
   return (
     <View>
-      <Text>App</Text>
-      <Text>App</Text>
-      <Text>App</Text>
+      <Text>wqqqqqqqqqqqqqqqqqqqqqqqqqqqqq</Text>
+      <Text>eeeeeeeeeeeeeeeeeeeeeeeeeeee</Text>
+      <Text>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        
+      </Text>
 
-
-      <Text>App</Text>
-
-      <Text>App</Text>
-
-      <Text>App</Text>
 
 
     </View>
