@@ -3,7 +3,6 @@
  */
 
 import {AppRegistry} from 'react-native';
-import specialtyprovider from './specialtyprovider';
 import {name as appName} from './app.json';
-
-AppRegistry.registerComponent(appName, () => specialtyprovider);
+import bookSlots from './bookSlots';
+AppRegistry.registerComponent(appName, () => bookSlots);
